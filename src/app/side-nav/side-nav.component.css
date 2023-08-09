@@ -1,0 +1,23 @@
+img{
+    width: 160px; 
+    height: 160px;  
+    border-radius: 500px;
+ 
+}
+.profile-card{
+    width: 170px; 
+    height: 200px;  
+    border-radius: 500px;
+    
+}
+
+h3{
+    margin-left: 40px;
+}
+a:hover{
+    background-color: rgb(192, 192, 192);
+    margin-left: 20px;
+    border-left: 2px solid rgb(91, 184, 179);
+    
+
+}
